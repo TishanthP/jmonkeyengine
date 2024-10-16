@@ -1,5 +1,6 @@
 jMonkeyEngine
 =============
+#My advice would be to add some comments to further elaborate on what each link and line in this code does from your perspective for the better understanding from readers
 
 [![Build Status](https://github.com/jMonkeyEngine/jmonkeyengine/workflows/Build%20jMonkeyEngine/badge.svg)](https://github.com/jMonkeyEngine/jmonkeyengine/actions)
 
